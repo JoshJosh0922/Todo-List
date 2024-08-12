@@ -1,0 +1,4 @@
+php artisan migrate -> Start the project
+php artisan make:model todo -mc -> Create a Model file
+php artisan migrate -> All Database configurations in Database -> migrations folder is  going to create tables in database
+php artisan make:controller PrintController -> Create new Controller
